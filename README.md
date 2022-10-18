@@ -1,2 +1,32 @@
-# 2223-DI000-TemplateRepo
-Template repository
+<h1 style="color:cyan">2223-MOBI-009-Game-voor-kinderen-met-beperking</h1>
+
+<h2 style="color:cyan">About the project</h2>
+<p>For this project I will be creating a game for children with a disability. This means that the game has to be easy to play and very accessible.
+
+Probably one of the most important requirements for this project is that the game must be made solely for entertainment. It should not be educational or include any form of real "purpose" other than having fun.
+
+I have decided to make a game similar to Super Mario but much more accessible.
+The goal of my game is to avoid the holes in the ground and make your way to the end of the level.
+
+To keep with the requirements the game will be limited to just one button input, this will be the jumping input.</p>
+
+---
+<h2 style="color:cyan">Demo (not yet working)</h2>
+<p> <a>HERE</a> you can find an early game demo</p>
+<p>Please note that the game is still very much in early development so any bugs and glitches will be resolved in due time</p>
+
+---
+
+
+
+<h2 style="color:cyan">Contact me</h2>
+<p>
+    Marnik Maes - 
+    <a href="mailto:r0881840@student.thomasmore.be">Email</a> - 
+    <a href="https://www.linkedin.com/in/marnik-maes-b0aa79250/">LinkedIn</a> - 
+    <a href="https://twitter.com/MaesMarnik">Twitter</a>
+</p>
+
+<p>Project link : <a href="https://github.com/Thomas-More-Digital-Innovation/2223-MOBI-009-Game-voor-kinderen-met-beperking-MM"> Github Repo </a> </p>
+
+
