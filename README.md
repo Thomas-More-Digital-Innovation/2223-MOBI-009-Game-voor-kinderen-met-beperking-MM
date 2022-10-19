@@ -11,8 +11,9 @@ The goal of my game is to avoid the holes in the ground and make your way to the
 To keep with the requirements the game will be limited to just one button input, this will be the jumping input.</p>
 
 ---
-<h2 style="color:cyan">Demo (not yet working)</h2>
-<p> <a>HERE</a> you can find an early game demo</p>
+<h2 style="color:cyan">Game demo</h2>
+<p> <a href="https://marnikmaes.itch.io/2d-side-scroller">HERE</a> you can find my game. You will be redirected to my itch.io page. It's a marketplace for independent digital creators with a focus on independent video games. Of course is my game completely free to play</p>
+
 <p>Please note that the game is still very much in early development so any bugs and glitches will be resolved in due time</p>
 
 ---
