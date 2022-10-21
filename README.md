@@ -12,7 +12,7 @@ To keep with the requirements the game will be limited to just one button input,
 
 ---
 <h2 style="color:cyan">Game demo</h2>
-<p> <a href="https://marnikmaes.itch.io/2d-side-scroller">HERE</a> you can find my game. You will be redirected to my itch.io page. It's a marketplace for independent digital creators with a focus on independent video games. Of course my game is free to play</p>
+<p> <a href="https://marnik-maes.itch.io/2d-side-scroller">HERE</a> you can find my game. You will be redirected to my itch.io page. It's a marketplace for independent digital creators with a focus on independent video games. Of course my game is free to play</p>
 
 <p>Please note that the game is still very much in early development so any bugs and glitches will be resolved in due time</p>
 
