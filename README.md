@@ -18,6 +18,10 @@ To keep with the requirements the game will be limited to just one button input,
 
 ---
 
+<h2 style="color:cyan">Trello board</h2>
+<a href="https://trello.com/b/fHyOKIt3/game-voor-kinderen-met-beperking-marnik-maes">HERE</a> you can find my Trello board with all the user stories.
+<p> &#40; Only works if you have authorised access to my Trello board &#41;.</p>
+
 
 
 <h2 style="color:cyan">Contact me</h2>
