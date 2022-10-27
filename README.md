@@ -25,6 +25,67 @@ To keep with the requirements the game will be limited to just one button input,
 
 ---
 
+<h2 style="color:cyan">Game updates</h2>
+
+<h3>Update game version 2:</h3>
+<ul>
+    <li>Background music</li>
+    <li>Jump sound</li>
+    <li>Esc key to exit game</li>
+    <li>Basic loading screen</li>
+</ul>
+
+<h3>Update game version 3:</h3>
+<ul>
+    <li>Update to loading screen</li>
+    <li>Update to win/lose screen</li>
+    <li>Esc key to exit game</li>
+    <li>Update to level looks</li>
+    <li>Update to sounds</li>
+    <li>Update to game end</li>
+</ul>
+
+<h3>Update game version 3.2:</h3>
+<ul>
+    <li>Better level spawn points</li>
+    <li>Better next level point locations</li>
+    <li>Better "cave" level background</li>
+    <li>Loading screen "how to play" instructions</li>
+    <li>More game music </li>
+</ul>
+
+<h3>Update game version 3.3:</h3>
+<ul>
+    <li>Game pause</li>
+    <li>Edit to level undergrounds</li>
+    <li>Better "cave" level background</li>
+    <li>Start-up, menu and loading screen update</li>
+</ul>
+
+<h3>Update game version 4:</h3>
+<ul>
+    <li>Added pick up items with item counter</li>
+    <li>Font and UI changes</li>
+</ul>
+
+<h3>Update game version 5:</h3>
+<ul>
+    <li>complete level overhaul
+        <ul>
+            <li>level 1-3: easy</li>
+            <li>level 4-7: medium</li>
+            <li>level 8-10: hard</li>
+        </ul>
+    </li>
+    <li>audio muted by default (press m key to unmute/mute)</li>
+    <li>end game screen</li>
+    <li>decreased jump height</li>
+</ul>
+
+
+---
+
+
 <h2 style="color:cyan">Contact me</h2>
 <p>
     Marnik Maes - 
