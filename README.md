@@ -22,6 +22,9 @@ To keep with the requirements the game will be limited to just one button input,
 <p> <a href="https://marnik-maes.itch.io/2d-side-scroller">HERE</a> you can find my game. You will be redirected to my itch.io page. It's a marketplace for independent digital creators with a focus on independent video games. Of course my game is free to play</p>
 
 
+<p> <a href="https://youtu.be/BDm2soA4BFI">HERE</a> you can find a full gameplay demo</p>
+
+
 <p> <a href="https://youtu.be/LK-6iYu-i20">HERE</a> you can find an instructional video explaining how to download and play the game for those who need it.</p>
 
 
