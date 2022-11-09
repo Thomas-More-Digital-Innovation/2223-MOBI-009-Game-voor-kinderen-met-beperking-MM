@@ -19,6 +19,7 @@ To keep with the requirements the game will be limited to just one button input,
 ---
 
 <h2 style="color:cyan">Game demo and video</h2>
+<p>Since I cannot upload my project to Github because the file is to large, I will redirect you to my Itch.io page.</p>
 <p> <a href="https://marnik-maes.itch.io/2d-side-scroller">HERE</a> you can find my game. You will be redirected to my itch.io page. It's a marketplace for independent digital creators with a focus on independent video games. Of course my game is free to play</p>
 
 
