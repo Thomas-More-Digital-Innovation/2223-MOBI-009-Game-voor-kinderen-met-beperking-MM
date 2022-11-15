@@ -88,6 +88,26 @@ To keep with the requirements the game will be limited to just one button input,
     <li>decreased jump height</li>
 </ul>
 
+<h3> Update game version 6: </h3>
+<ul>
+    <li>complete start menu overhaul</li>
+    <li>loading screen goes to next level with key press instead of time</li>
+    <li>bug and glitch fixes in levels</li>
+</ul>
+
+<h3> Update game version 6.1: </h3>
+<ul>
+    <li>complete start menu overhaul</li>
+    <li>Change to the win screen at the end of each level</li>
+    <li>Some very small level changes</li>
+</ul>
+
+<h3> Update game version 6.2: </h3>
+<ul>
+    <li>complete start menu overhaul</li>
+    <li>Press R to restart the current level</li>
+    <li>fixed pause screen glitch</li>
+</ul>
 
 ---
 
