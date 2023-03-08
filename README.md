@@ -1,4 +1,4 @@
-<h1 style="color:cyan">2223-MOBI-009-Game-voor-kinderen-met-beperking</h1>
+<h1 style="color:cyan">Jumping Fox</h1>
 
 <h2 style="color:cyan">About the project</h2>
 <p>For this project I will be creating a game for children with a disability. This means that the game has to be easy to play and very accessible.
