@@ -1,5 +1,5 @@
 # 2223-MOBI-009-Game-voor-kinderen-met-beperking
-(view English below)
+(English version below)
 
 ## Over het project.
 Voor dit project ga ik een video game maken specifiek voor kinderen met een beperking. Dit houd in dat de game zeer toegankelijk moet zijn en rekening moet houden met zowel de mentale als de fysieke beperkingen. 
